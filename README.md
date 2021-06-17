@@ -1,5 +1,9 @@
 ### Hi there 👋
-- 📫 How to reach me: [@SaqibWaheed786](https://twitter.com/SaqibWaheed786)
+- 🔭 I'm currently working on Blockchain/CryptoCurrency.
+- 🌱 I’m currently learning Tableau and Power BI
+- 📫 How to reach me: [@SaqibWaheed786](https://twitter.com/SaqibWaheed786), [Linkedin](https://www.linkedin.com/in/saqibwaheed1/)
+
+
 
 <!--
 **saqibwaheed786/saqibwaheed786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
