@@ -10,6 +10,7 @@
 <a href = "mailto: personalmail786@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 <a href="https://twitter.com/SaqibWaheed786"><img align="center"  src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/twitter.svg" height="40" width="40" /></a>
 </a>
+</a>
 </p>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -18,7 +19,7 @@
 
 - :apple: Beginner mindset (**open to learning**)
 - 🔭 I'm currently working on Blockchain / Crypto Currency & Trading
-- 🌱 I'm on track for learning more about Artificial Intelligence,Data Science,Machine Learning
+- 🌱 I'm on track for learning more about ML,DL,AI
 - :weight_lifting_man:Workout 3 days in a row and take a day break
 - 🥅 2021-2022 Goals: Contribute to Open Source projects
 - 🧗 I try to: Go beyond and push the bounds
