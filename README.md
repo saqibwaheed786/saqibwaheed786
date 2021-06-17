@@ -24,7 +24,7 @@
 - 🥅 2021-2022 Goals: Contribute to Open Source projects
 - 🧗 I try to: Go beyond and push the bounds
 - 💰 何以解忧，唯有暴富 | پریشانیوں کو کیسے دور کیا جائے ، صرف امیر ہوجائیں
-
+- ☕ &nbsp; I belive, a perfect cup of Tee can be the ultimate solution for any stress
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
