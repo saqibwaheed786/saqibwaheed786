@@ -16,6 +16,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
+- :apple: Beginner mindset (**open to learning**)
 - 🔭 I'm currently working on Blockchain / Crypto Currency & Trading
 - 🌱 I'm on track for learning more about Artificial Intelligence,Data Science,Machine Learning
 - :weight_lifting_man:Workout 3 days in a row and take a day break
