@@ -22,12 +22,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+![SaqibWaheed's github stats](https://github-readme-stats.vercel.app/api?username=saqibwaheed786&theme=gruvbox&show_icons=true)
 
-<p align="center">
-<a href="https://github.com/saqibwaheed786">
- 
-</p>
+
 
 
 <!--
