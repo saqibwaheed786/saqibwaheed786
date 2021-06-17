@@ -23,21 +23,10 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 ![SaqibWaheed's github stats](https://github-readme-stats.vercel.app/api?username=saqibwaheed786&theme=gruvbox&show_icons=true)
-
-
+<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
 
 <!--
 **saqibwaheed786/saqibwaheed786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I'm currently working on a fun project.
-- 🌱 I’m currently learning Tableau and Power BI
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [@SaqibWaheed786](https://twitter.com/SaqibWaheed786)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
