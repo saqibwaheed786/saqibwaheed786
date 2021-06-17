@@ -20,7 +20,7 @@
 - 🔭 I'm currently working on Blockchain / Crypto Currency & Trading
 - 🌱 I'm on track for learning more about Artificial Intelligence,Data Science,Machine Learning
 - :weight_lifting_man:Workout 3 days in a row and take a day break
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2021-2022 Goals: Contribute to Open Source projects
 - 🧗 I try to: Go beyond and push the bounds
 - 💰 何以解忧，唯有暴富 | پریشانیوں کو کیسے دور کیا جائے ، صرف امیر ہوجائیں
 
@@ -37,11 +37,10 @@
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-![SaqibWaheed's github stats](https://github-readme-stats.vercel.app/api?username=saqibwaheed786&theme=gruvbox&show_icons=true)
+
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
+![SaqibWaheed's github stats](https://github-readme-stats.vercel.app/api?username=saqibwaheed786&theme=gruvbox&show_icons=true)
 
-<!--
-**saqibwaheed786/saqibwaheed786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
