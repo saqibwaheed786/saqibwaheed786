@@ -20,7 +20,9 @@
 - 🔭 I'm currently working on Blockchain / Crypto Currency & Trading
 - 🌱 I'm on track for learning more about Artificial Intelligence,Data Science,Machine Learning
 - :weight_lifting_man:Workout 3 days in a row and take a day break
-- Adapting the minimalism life style
+- 🥅 2021 Goals: Contribute to Open Source projects
+- 🧗 I try to: Go beyond and push the bounds
+- 💰 何以解忧，唯有暴富 | پریشانیوں کو کیسے دور کیا جائے ، صرف امیر ہوجائیں
 
 ### 🛠 &nbsp;Tech Stack
 
