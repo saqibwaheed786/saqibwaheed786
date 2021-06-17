@@ -4,6 +4,8 @@
 <a href="https://www.linkedin.com/in/saqibwaheed1/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" height="30" width="30" /></a>
 <a href="https://www.kaggle.com/saqibwaheed" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_saqibwaheed" height="30" width="40" /></a>
 <a href = "mailto: personalmail786@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+<a href="https://twitter.com/SaqibWaheed786"><img align="center"  src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/twitter.svg" height="40" width="40" /></a>
+</a>
 </p>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
