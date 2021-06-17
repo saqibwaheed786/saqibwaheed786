@@ -1,5 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Saqib Waheed </h1>
 
+<h3 align="center"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em> </h1>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/saqibwaheed1/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" height="30" width="30" /></a>
 <a href="https://www.kaggle.com/saqibwaheed" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_saqibwaheed" height="30" width="40" /></a>
@@ -14,6 +16,8 @@
 
 - 🔭 I'm currently working on Blockchain/CryptoCurrency
 - 🌱 I'm on track for learning more about Artificial Intelligence,Data Science,Machine Learning
+- :weight_lifting_man:Workout 3 days in a row and take a day break
+- Adapting the minimalism life style
 
 ### 🛠 &nbsp;Tech Stack
 
