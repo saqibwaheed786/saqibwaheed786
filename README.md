@@ -18,10 +18,10 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 - :apple: Beginner mindset (**open to learning**)
-- 🔭 I'm currently working on Blockchain / Crypto Currency & Trading
+- 🔭 I'm currently working on Blockchain / AI 
 - 🌱 I'm on track for learning more about ML,DL,AI
 - :weight_lifting_man:Workout 3 days in a row and take a day break
-- 🥅 2021-2022 Goals: Contribute to Open Source projects
+- 🥅 2022-2023 Goals: Contribute to Open Source projects
 - 🧗 I try to: Go beyond and push the bounds
 - 💰 何以解忧，唯有暴富 | پریشانیوں کو کیسے دور کیا جائے ، صرف امیر ہوجائیں
 - ☕ &nbsp; I belive, a perfect cup of Tee can be the ultimate solution for any stress
