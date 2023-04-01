@@ -5,7 +5,7 @@
 <h3 align="center"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em> </h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/saqibwaheed1/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffree-png-vectors%2Flinkedin-logo&psig=AOvVaw0uPvFomvoVzq_GHFZRHfV0&ust=1680439603650000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDbn8rbiP4CFQAAAAAdAAAAABAD" height="30" width="30" /></a>
+</a>
 <a href="https://www.kaggle.com/saqibwaheed" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_saqibwaheed" height="30" width="40" /></a>
 <a href = "mailto: personalmail786@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 <a href="https://twitter.com/SaqibWaheed786"><img align="center"  src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/twitter.svg" height="40" width="40" /></a>
