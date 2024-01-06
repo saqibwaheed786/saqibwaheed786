@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Saqib Waheed </h1>
+<h1 align="center">Hey! Nice to see you </h1>
 
 <h3 align="center"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em> </h1>
 
@@ -18,7 +18,6 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 - :apple: Beginner mindset (**open to learning**)
-- 🔭 I'm currently working on Blockchain / AI 
 - 🌱 I'm on track for learning more about DS,CMS,DevSecOps
 - :weight_lifting_man:Workout 3 days in a row and take a day break
 - 🥅 2024-2025 Goals: Contribute to Open Source projects
@@ -28,16 +27,17 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
+![HTML](https://img.shields.io/badge/HTML-green?style=plastic&logo=html5&logoColor=white&labelColor=239120&color=blac)&nbsp;
+![C#](https://img.shields.io/badge/C%23-black?style=plastic&logo=C%23&logoColor=white&labelColor=%2368BC71)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![C#](https://img.shields.io/badge/C%23-black?style=plastic&logo=C%23&logoColor=white&labelColor=%2368BC71)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=plastic&logo=visual-studio&logoColor=white&labelColor=5C2D91&color=black)&nbsp;
+![PowerShell](https://img.shields.io/badge/PowerShell-black?style=plastic&logo=PowerShell&logoColor=white&labelColor=%23009FDA)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-black?style=plastic&logo=MySQL&logoColor=white&labelColor=%2368BC71)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
+![Testing](https://img.shields.io/badge/Testing-323330?style=plastic&logo=testing-library&logoColor=red&labelColor=FFEC33&color=black)&nbsp;
 ![Scrum](https://img.shields.io/badge/-Scrum-05122A?style=plastic&logo=Agile&logoColor=white&labelColor=%23009FDA)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-black?style=plastic&logo=microsoft&logoColor=white&labelColor=D83B01)&nbsp;
+
 
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
