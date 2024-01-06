@@ -39,7 +39,7 @@ class WhoAmI:
 	    Pursuing further education & certifications()
 	    Continuous learning & self improvement()
 	    Exploring opportunities in tech related fields()
-	    Building a legacy that extends beyond their lifetime()
+	    Building a legacy that extends beyond my lifetime()
 ```
 - :apple: Beginner mindset (**open to learning**)
 - 🌱 I'm on track for learning more about DS,CMS,DevSecOps
