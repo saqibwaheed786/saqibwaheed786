@@ -15,8 +15,32 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+## Who am I?
+ ```python
+class WhoAmI:
+ 	user = 'Saqib Waheed'
+		currently_working = 'Self Development'
+		hobbies = [
+				'Playing Chess',
+				'Extroverted:always up for socializing'
+				'Watching indian web series',
+				'Exploring new gadgets or technology'
+				'Home improvememnt'
+				'Participating in community events...'
 
+			]
+	
+	def getCity():
+		return 50°56'15.0"N 6°57'37.1"E()
+	
+	def Ambitions():
+	    Achieving fitness goals or adopting a healthier lifestyle()
+	    Pursuing further education & certifications()
+	    Continuous learning & self improvement()
+	    Exploring opportunities in tech related fields()
+	    Building a legacy that extends beyond their lifetime()
+```
 - :apple: Beginner mindset (**open to learning**)
 - 🌱 I'm on track for learning more about DS,CMS,DevSecOps
 - :weight_lifting_man:Workout 3 days in a row and take a day break
