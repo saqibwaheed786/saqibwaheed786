@@ -19,9 +19,9 @@
 
 - :apple: Beginner mindset (**open to learning**)
 - 🔭 I'm currently working on Blockchain / AI 
-- 🌱 I'm on track for learning more about ML,DL,AI
+- 🌱 I'm on track for learning more about DS,CMS,DevSecOps
 - :weight_lifting_man:Workout 3 days in a row and take a day break
-- 🥅 2022-2023 Goals: Contribute to Open Source projects
+- 🥅 2024-2025 Goals: Contribute to Open Source projects
 - 🧗 I try to: Go beyond and push the bounds
 - 💰 何以解忧，唯有暴富 | پریشانیوں کو کیسے دور کیا جائے ، صرف امیر ہوجائیں
 - ☕ &nbsp; I belive, a perfect cup of Tee can be the ultimate solution for any stress
@@ -31,12 +31,12 @@
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![C#](https://img.shields.io/badge/C%23-black?style=plastic&logo=C%23&logoColor=white&labelColor=%2368BC71)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
+![MYSQL](https://img.shields.io/badge/MySQL-black?style=plastic&logo=MySQL&logoColor=white&labelColor=%2368BC71)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab&logoColor=F9AB00)&nbsp;
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
+![Scrum](https://img.shields.io/badge/-Scrum-05122A?style=plastic&logo=Agile&logoColor=white&labelColor=%23009FDA)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 
