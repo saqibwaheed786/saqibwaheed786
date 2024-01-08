@@ -24,7 +24,7 @@ class WhoAmI:
 		hobbies = [
 				'Playing Chess',
 				'Extroverted:always up for socializing'
-				'Watching indian web series',
+				'Watching Web Series',
 				'Exploring new gadgets or technology'
 				'Home improvememnt'
 				'Participating in community events...'
