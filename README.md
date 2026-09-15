@@ -60,7 +60,7 @@ class WhoAmI:
 ![MYSQL](https://img.shields.io/badge/MySQL-black?style=plastic&logo=MySQL&logoColor=white&labelColor=%2368BC71)&nbsp;
 ![Testing](https://img.shields.io/badge/Testing-323330?style=plastic&logo=testing-library&logoColor=red&labelColor=FFEC33&color=black)&nbsp;
 ![Scrum](https://img.shields.io/badge/-Scrum-05122A?style=plastic&logo=Agile&logoColor=white&labelColor=%23009FDA)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-black?style=plastic&logo=microsoft&logoColor=white&labelColor=D83B01)&nbsp;
+![Microsoft 365](https://img.shields.io/badge/Microsoft_Office-black?style=plastic&logo=microsoft&logoColor=white&labelColor=D83B01)&nbsp;
 
 
 
