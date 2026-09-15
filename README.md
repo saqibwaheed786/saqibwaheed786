@@ -41,9 +41,9 @@ class WhoAmI:
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/saqibwaheed786/)
 
 - :apple: Beginner mindset (**open to learning**)
-- 🌱 I'm on track for learning more about DS,CMS,DevSecOps
+- 🌱 I'm on track for learning more about Data & Business Analytics, Startup & Entrepreneurship
 - :weight_lifting_man:Workout 3 days in a row and take a day break
-- 🥅 2024-2025 Goals: Contribute to Open Source projects
+- 🥅 2026-2027 Targets: Building a **startup** & owning a **home**
 - 🧗 I try to: Go beyond and push the bounds
 - 💰 何以解忧，唯有暴富 | پریشانیوں کو کیسے دور کیا جائے ، صرف امیر ہوجائیں
 - ☕ &nbsp; I belive, a perfect cup of Tee can be the ultimate solution for any stress
