@@ -61,7 +61,7 @@ class WhoAmI:
 ![Scrum](https://img.shields.io/badge/-Scrum-05122A?style=plastic&logo=Agile&logoColor=white&labelColor=%23009FDA)&nbsp;
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_Office-black?style=plastic&logo=microsoft&logoColor=white&labelColor=D83B01)&nbsp;
 
-
+<img align="center" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
 
 
