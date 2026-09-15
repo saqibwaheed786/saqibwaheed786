@@ -33,7 +33,7 @@ class WhoAmI:
 	
 	def Ambitions():
 	    Achieving fitness goals or adopting a healthier lifestyle()
-	    Pursuing further education & certifications()
+	    Planning  a_second_Master & AI_certifications()
 	    Continuous learning & self improvement()
 	    Exploring opportunities in tech related fields()
 	    Building a legacy that extends beyond my lifetime()
