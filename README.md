@@ -53,6 +53,7 @@ class WhoAmI:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)&nbsp;
+![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-green?style=plastic&logo=html5&logoColor=white&labelColor=239120&color=blac)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
