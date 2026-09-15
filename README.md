@@ -58,10 +58,7 @@ class WhoAmI:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=plastic&logo=visual-studio&logoColor=white&labelColor=5C2D91&color=black)&nbsp;
-![PowerShell](https://img.shields.io/badge/PowerShell-black?style=plastic&logo=PowerShell&logoColor=white&labelColor=%23009FDA)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-black?style=plastic&logo=MySQL&logoColor=white&labelColor=%2368BC71)&nbsp;
-![Testing](https://img.shields.io/badge/Testing-323330?style=plastic&logo=testing-library&logoColor=red&labelColor=FFEC33&color=black)&nbsp;
-![Scrum](https://img.shields.io/badge/-Scrum-05122A?style=plastic&logo=Agile&logoColor=white&labelColor=%23009FDA)&nbsp;
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_Office-black?style=plastic&logo=microsoft&logoColor=white&labelColor=D83B01)&nbsp;
 ![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)&nbsp;
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)&nbsp;
@@ -76,6 +73,6 @@ class WhoAmI:
 <img align="center" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
 
-
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 
