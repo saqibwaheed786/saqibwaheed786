@@ -29,7 +29,7 @@ class WhoAmI:
 			]
 	
 	def getCity():
-		return 50°56'15.0"N 6°57'37.1"E()
+		return 50°52'00.0"N 7°08'00.0"E
 	
 	def Ambitions():
 	    Achieving fitness goals or adopting a healthier lifestyle()
