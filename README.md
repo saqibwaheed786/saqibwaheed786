@@ -11,7 +11,7 @@
 </p>
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/saqibwaheed786/)
 ## Who am I?
  ```python
@@ -28,7 +28,7 @@ class WhoAmI:
 
 			]
 	
-	def getCity():
+	def getCity(Work):
 		return 50°52'00.0"N 7°08'00.0"E
 	
 	def Ambitions():
@@ -47,8 +47,10 @@ class WhoAmI:
 - 🧗 I try to: Go beyond and push the bounds
 - 💰 何以解忧，唯有暴富 | پریشانیوں کو کیسے دور کیا جائے ، صرف امیر ہوجائیں
 - ☕ &nbsp; I belive, a perfect cup of Tee can be the ultimate solution for any stress
+
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/saqibwaheed786/)  
 ### 🛠 &nbsp;Tech Stack
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/saqibwaheed786/)
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)&nbsp;
