@@ -64,7 +64,7 @@ class WhoAmI:
 
 
 
-![SaqibWaheed's github stats](https://github-readme-stats.vercel.app/api?username=saqibwaheed786&theme=gruvbox&show_icons=true)
+
 
 
 
