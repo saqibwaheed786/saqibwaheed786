@@ -51,6 +51,8 @@ class WhoAmI:
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-green?style=plastic&logo=html5&logoColor=white&labelColor=239120&color=blac)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -60,6 +62,13 @@ class WhoAmI:
 ![Testing](https://img.shields.io/badge/Testing-323330?style=plastic&logo=testing-library&logoColor=red&labelColor=FFEC33&color=black)&nbsp;
 ![Scrum](https://img.shields.io/badge/-Scrum-05122A?style=plastic&logo=Agile&logoColor=white&labelColor=%23009FDA)&nbsp;
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_Office-black?style=plastic&logo=microsoft&logoColor=white&labelColor=D83B01)&nbsp;
+![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)&nbsp;
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)&nbsp;
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)&nbsp;
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)&nbsp;
+
+
+
 
 <img align="right" alt="GIF" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" width="100" height="100" />
 <img align="right" alt="GIF" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" width="100" height="100" />
