@@ -55,12 +55,10 @@ class WhoAmI:
 ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)&nbsp;
 ![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-green?style=plastic&logo=html5&logoColor=white&labelColor=239120&color=blac)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=plastic&logo=visual-studio&logoColor=white&labelColor=5C2D91&color=black)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-black?style=plastic&logo=MySQL&logoColor=white&labelColor=%2368BC71)&nbsp;
-![Microsoft 365](https://img.shields.io/badge/Microsoft_Office-black?style=plastic&logo=microsoft&logoColor=white&labelColor=D83B01)&nbsp;
 ![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)&nbsp;
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)&nbsp;
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)&nbsp;
