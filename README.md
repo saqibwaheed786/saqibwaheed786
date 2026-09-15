@@ -52,7 +52,6 @@ class WhoAmI:
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-green?style=plastic&logo=html5&logoColor=white&labelColor=239120&color=blac)&nbsp;
-![C#](https://img.shields.io/badge/C%23-black?style=plastic&logo=C%23&logoColor=white&labelColor=%2368BC71)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=plastic&logo=visual-studio&logoColor=white&labelColor=5C2D91&color=black)&nbsp;
