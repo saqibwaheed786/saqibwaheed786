@@ -1,9 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
-
 <h1 align="center">Hey! Nice to see you </h1>
-
 <h3 align="center"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em> </h1>
-
 <p align="center">
 </a>
 <a href="https://www.kaggle.com/saqibwaheed" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_saqibwaheed" height="30" width="40" /></a>
@@ -13,9 +10,9 @@
 </a>
 </p>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)]([https://github.com/hiradEmami](https://github.com/saqibwaheed786/))
 ## Who am I?
  ```python
 class WhoAmI:
@@ -41,6 +38,8 @@ class WhoAmI:
 	    Exploring opportunities in tech related fields()
 	    Building a legacy that extends beyond my lifetime()
 ```
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/saqibwaheed786/)
+
 - :apple: Beginner mindset (**open to learning**)
 - 🌱 I'm on track for learning more about DS,CMS,DevSecOps
 - :weight_lifting_man:Workout 3 days in a row and take a day break
@@ -49,7 +48,7 @@ class WhoAmI:
 - 💰 何以解忧，唯有暴富 | پریشانیوں کو کیسے دور کیا جائے ، صرف امیر ہوجائیں
 - ☕ &nbsp; I belive, a perfect cup of Tee can be the ultimate solution for any stress
 ### 🛠 &nbsp;Tech Stack
-
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/saqibwaheed786/)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)&nbsp;
@@ -65,14 +64,9 @@ class WhoAmI:
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)&nbsp;
 ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)&nbsp;
 
-
-
-
 <img align="right" alt="GIF" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" width="100" height="100" />
 <img align="right" alt="GIF" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" width="100" height="100" />
 <img align="center" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
-
-
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 
